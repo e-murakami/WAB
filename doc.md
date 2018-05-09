@@ -13,7 +13,7 @@ ArcGIS Online へサインインし、[Web マップ](https://www.esrij.com/gis-
 [ArcGIS Online](https://www.arcgis.com/home/)へアクセスし、ArcGIS for Developers のユーザー名とパスワードを入力してサイン インします。  
 [マップ] をクリックして、マップビューアーを開きます。
 
-![マップビューアー1](./img/1-1.png)
+![マップビューアー1](./img/mapviewer.png)
 
 ### 2. Web マップの作成
 
